@@ -10,3 +10,7 @@
 
 * [EasyUI:Cannot read property 'width' of null](qian-duan/easyui-cannot-read-property-width-of-null.md)
 
+## 公考
+
+* [理论词汇释义](gong-kao/li-lun-ci-hui-shi-yi.md)
+
