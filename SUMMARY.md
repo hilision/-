@@ -16,5 +16,6 @@
 
 ## JAVA
 
+* [SpringBoot路由访问404](java/springboot-lu-you-fang-wen-404.md)
 * [R类解析layout文件报错](java/r-lei-jie-xi-layout-wen-jian-bao-cuo.md)
 
