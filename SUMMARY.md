@@ -14,3 +14,7 @@
 
 * [理论词汇释义](gong-kao/li-lun-ci-hui-shi-yi.md)
 
+## JAVA
+
+* [R类解析layout文件报错](java/r-lei-jie-xi-layout-wen-jian-bao-cuo.md)
+
